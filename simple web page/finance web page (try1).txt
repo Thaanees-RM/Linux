@@ -1,0 +1,43 @@
+[root@finance 2135_mini_finance]# history
+    1  vi /etc/hostname
+    2  exit
+    3  cat /etc/os-release
+    4  yum install httpd wget vim unzip zip -y
+    5  systemctl start httpd
+    6  systemctl enable httpd
+    7  ip address show
+    8  cd /var/www/html/
+    9  ls
+   10  vim index.html
+   11  systmctl restart httpd
+   12  systemctl restart httpd
+   13  get https://www.tooplate.com/download/2135_mini_finance
+   14  cd /tmp/
+   15  wget https://www.tooplate.com/download/2135_mini_finance
+   16  ls
+   17  unzip 2135_mini_finance
+   18  cd 2135_mini_finance/
+   19  ls
+   20  cd /2135_mini_finance/
+   21  wget https://www.tooplate.com/zip-templates/2135_mini_finance.zip
+   22  ls
+   23  unzip 2135_mini_finance.zip
+   24  clear
+   25  ls
+   26  cd 2135_mini_finance.zip /
+   27  rmdir 2135_mini_finance
+   28  rmdir -r 2135_mini_finance
+   29  rm -rf 2135_mini_finance
+   30  rm -rf 2135_mini_finance.zip
+   31  ls
+   32  wget https://www.tooplate.com/zip-templates/2135_mini_finance.zip
+   33  ls
+   34  unzip 2135_mini_finance.zip
+   35  ls
+   36  cd 2135_mini_finance/
+   37  ls
+   38  pwd
+   39  cp -r * /var/www/html/
+   40  ls /var/www/html/
+   41  systemctl restart httpd
+   42  history
